@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hey there, I'm <a href="https://yourportfolio.com" target="_blank">YourName</a> 👋</h1>
+<h1 align="center">Hey there, I'm <a href="https://yourportfolio.com" target="_blank">Inuri</a> 👋</h1>
 <h3 align="center">🚀 Software Engineer | 🧠 Debugger of the Universe | ☕️ Coffee Compiler</h3>
 
 <!-- Typing animation -->
